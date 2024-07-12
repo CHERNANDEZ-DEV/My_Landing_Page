@@ -75,8 +75,8 @@ const Principal = () => {
             Some details about Carlos Hernández. He is a web developer and designer based in some place. Loves to work on web projects and collaborate with great teams.
           </p>
           <div className="flex justify-center md:justify-start space-x-4">
-            <button className="bg-[#E94560] text-white py-2 px-4 rounded-md hover:bg-yellow-600">Contact me</button>
-            <button className="bg-[#E94560] text-white py-2 px-4 rounded-md hover:bg-yellow-600">Download my CV</button>
+            <button className="bg-[#E94560] text-white py-2 px-4 rounded-md hover:bg-yellow-600 font-bold">Contact me</button>
+            <button className="bg-[#E94560] text-white py-2 px-4 rounded-md hover:bg-yellow-600 font-bold">Download my CV</button>
           </div>
         </div>
         <div className="mt-6 md:mt-0 md:w-1/2 flex justify-center">
